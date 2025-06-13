@@ -106,8 +106,16 @@ body{
     font-size: 24px;
 }
 
-img{
-    color:#a10d0d
+img {
+      width: 100px; 
+    }
+
+h2{
+    color:#000000
+}
+
+h4{
+    color:#000000
 }
 
 @media screen and (min-width: 768px) {
